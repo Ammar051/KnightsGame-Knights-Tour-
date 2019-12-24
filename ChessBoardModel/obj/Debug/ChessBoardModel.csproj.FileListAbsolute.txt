@@ -1,0 +1,5 @@
+c:\users\dell giant\documents\visual studio 2015\Projects\ChessBoard\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+c:\users\dell giant\documents\visual studio 2015\Projects\ChessBoard\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+c:\users\dell giant\documents\visual studio 2015\Projects\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+c:\users\dell giant\documents\visual studio 2015\Projects\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.pdb
+C:\Users\Dell Giant\documents\visual studio 2015\Projects\ChessBoard\ChessBoardModel\obj\Debug\ChessBoardModel.csprojResolveAssemblyReference.cache
