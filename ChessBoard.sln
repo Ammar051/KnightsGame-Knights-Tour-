@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoardGuiApp", "ChessBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessBoardModel", "ChessBoardModel\ChessBoardModel.csproj", "{CA4C2FF3-BD7D-41E5-89BE-0C85201D3BF3}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupKnight", "SetupKnight\SetupKnight.vdproj", "{946B81B7-76D4-40C3-9D98-33E261F37A0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{CA4C2FF3-BD7D-41E5-89BE-0C85201D3BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA4C2FF3-BD7D-41E5-89BE-0C85201D3BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA4C2FF3-BD7D-41E5-89BE-0C85201D3BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{946B81B7-76D4-40C3-9D98-33E261F37A0B}.Debug|Any CPU.ActiveCfg = Debug
+		{946B81B7-76D4-40C3-9D98-33E261F37A0B}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

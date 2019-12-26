@@ -39,12 +39,13 @@ namespace ChessBoardGuiApp
         int countV = 0;
         public Form1()
         {
-            BIGB.Visible = false;
+         
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.BackgroundImage = Properties.Resources.tsvet_minimalizm_stil_fon_art_art_style_background_minima_15;
            
             InitializeComponent();
+            BIGB.Visible = false;
             Icon = Properties.Resources.imgknight__2_;
             populateGrid();
             panel2.BackgroundImage = (Image)Properties.Resources.max_yenin_by_max_yenin_knight_medieval_knight_character_vo_6;
@@ -457,6 +458,7 @@ namespace ChessBoardGuiApp
         {
 
         }
+       
 
         private void panel2_Paint(object sender, PaintEventArgs e)
         {
@@ -465,9 +467,7 @@ namespace ChessBoardGuiApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            BIGB.Visible = true;
             panel2.Hide();
-           
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -483,9 +483,6 @@ namespace ChessBoardGuiApp
 
         private void button5_Click(object sender, EventArgs e)
         {
-           
-            MessageBoxButtons buttons = MessageBoxButtons.YesNo;
-
             {
                 reset = true;
                 fromAuto = true;
